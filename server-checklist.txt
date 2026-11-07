@@ -1,0 +1,6 @@
+Server setup checklist
+
+1. Confirm the server name.
+2. confirm the server role.
+3. check network connectivity.
+4. Record the server in the inventory.
